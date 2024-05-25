@@ -1,7 +1,61 @@
-
-
 .header{
     height: 500px;
     background-color: var(--orange-color);
+    display: flex;
 
+    align-items: center;
+    flex-direction: column;
+}
+
+.headerlogo{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin-top: 20px;
+    color: white;
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+.headerlogo_image{
+    width: 33px;
+    height: 33px;
+    margin-left: 10px;
+}
+
+.HeaderMain{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.headerburger_image{
+    width: 253px;
+    height: 289px;
+}
+
+.headerMain_FirstText{
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 60px;
+    text-align: left;
+    color: white;
+    margin: 0;
+}
+
+.headerMain_SecondText{
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 60px;
+    text-align: left;
+    color:#FF5C00;
+    margin-top: 10px;
+}
+
+.headerMain_discount{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.82px;
+    text-align: left;
+    color: white;
 }
