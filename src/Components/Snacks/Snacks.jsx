@@ -4,7 +4,6 @@ import styles from './snacks.module.css'
 const Snacks = () => {
     return (
         <div>
-            13
         </div>
     );
 };

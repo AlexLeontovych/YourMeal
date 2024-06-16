@@ -4,10 +4,10 @@ import './index.css';
 import App from './Components/App/App';
 import Header from "./Components/Header/Header";
 import Navbar from "./Components/Navbar/Navbar";
-import {createBrowserRouter, Link, Route, RouterProvider} from "react-router-dom";
+import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import Burgers from "./Components/Burgers/Burgers";
-import Menu from "./Components/Menu/Menu";
 import Snacks from "./Components/Snacks/Snacks";
+import Basket from "./Components/Basket/Basket";
 
 const router = createBrowserRouter([
     {

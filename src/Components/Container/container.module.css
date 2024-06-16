@@ -1,0 +1,18 @@
+.burgerCard{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-right: 30px;
+    height: 410px;
+    background-color: chartreuse;
+    border-radius: 18px;
+}
+
+.burgerCard img{
+    height: 220px;
+    width: 276px;
+}
+
+.container{
+    display: flex;
+}

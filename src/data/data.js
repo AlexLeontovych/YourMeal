@@ -9,6 +9,12 @@ import pizza from "../images/navbar_pizza.png"
 import wok from "../images/navbar_wok.png"
 import desserts from "../images/navbar_desserts.png"
 import souces from "../images/navbar_souces.png"
+import burger1 from "../images/burger1.png"
+import burger2 from "../images/burger2.png"
+import burger3 from "../images/burger3.png"
+import burger4 from "../images/burger4.png"
+import burger5 from "../images/burger5.png"
+import burger6 from "../images/burger6.png"
 
 
 const images = {
@@ -22,7 +28,14 @@ const images = {
     pizza,
     wok,
     desserts,
-    souces
+    souces,
+    burger1,
+    burger2,
+    burger3,
+    burger4,
+    burger5,
+    burger6,
+
 
 };
 
